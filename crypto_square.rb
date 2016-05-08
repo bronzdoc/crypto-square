@@ -1,5 +1,3 @@
-require "pry"
-
 class Crypto
   attr_reader :size
 
